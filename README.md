@@ -1,4 +1,4 @@
-# portf-lio01
+# portfolio
 Meu primeiro portfolio desenvolvido com os cursos de HTML e CSS da Alura
 
 Oiee..Bem vindo ao meu projeto de portfólio.
